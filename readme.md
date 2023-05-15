@@ -62,8 +62,17 @@ print(response)
 ```
 
 ## Run the command for the chatbot
+Step 1 :
 ```unix
 git clone https://github.com/CHANDRA92/Chatterbot.git
+```
+Step 2 :
+```
+pip3 install -r requirements.txt
+```
+Step 3 :
+```python
+flask run
 ```
 
 ## Documentation
