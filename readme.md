@@ -1,7 +1,7 @@
 # ChatterBot
 
 ## Introduction
-ChatterBot is an intelligent conversational agent powered by artificial intelligence. It utilizes the state-of-the-art language model, GPT-3.5, developed by OpenAI. This model is trained on a diverse range of data sources and has the ability to understand and generate human-like text responses.
+ChatterBot is an intelligent conversational agent powered by artificial intelligence. It's is a Python library that makes it easy to generate automated responses to a user’s input. ChatterBot uses a selection of machine learning algorithms to produce different types of responses. This makes it easy for developers to create chat bots and automate conversations with users.
 
 ## Features
 - Natural Language Understanding: ChatterBot is equipped with advanced natural language processing capabilities, allowing it to comprehend and interpret user queries effectively.
