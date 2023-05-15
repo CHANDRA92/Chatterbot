@@ -61,6 +61,11 @@ response = chatbot.get_response("Hello, how are you?")
 print(response)
 ```
 
+## Run the command for the chatbot
+```unix
+git clone https://github.com/CHANDRA92/Chatterbot.git
+```
+
 ## Documentation
 For detailed documentation and examples, please refer to the [ChatterBot Documentation](https://chatterbot-docs.org).
 
